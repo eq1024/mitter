@@ -1,4 +1,4 @@
-## mymitt.js
+## mitter.js
 
 >一个实现发布订阅/eventbus基础功能的练习Demo
 
