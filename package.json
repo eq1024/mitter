@@ -1,0 +1,27 @@
+{
+  "name": "mitter",
+  "version": "1.0.1",
+  "description": "实现发布订阅模式基础功能，可用于VUE3组件通讯",
+  "main": "./src/x.js",
+  "dependencies": {
+    "webpack-cli": "^4.9.2",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eq1024/mitter.git"
+  },
+  "keywords": [
+    "mitter"
+  ],
+  "author": "EQ1024",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eq1024/mitter/issues"
+  },
+  "homepage": "https://github.com/eq1024/mitter#readme"
+}
